@@ -1,0 +1,21 @@
+https://stackoverflow.com/questions/34467627/change-dom-content-with-chrome-extension
+https://ourcodeworld.com/articles/read/189/how-to-create-a-file-and-generate-a-download-with-javascript-in-the-browser-without-a-server
+https://developer.chrome.com/extensions/content_scripts
+https://developer.chrome.com/extensions/getstarted
+https://developer.chrome.com/extensions/messaging
+
+
+
+How to install:
+
+https://www.themebeta.com/install-theme-chrome-75
+
+
+
+
+
+
+
+
+
+
